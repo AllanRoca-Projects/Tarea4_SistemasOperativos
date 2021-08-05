@@ -1,0 +1,9 @@
+C:\Users\Allan\Desktop\UMG-CUARENTENA\Sistemas Operativos l\Tarea4_Procesos\bin\Debug\Tarea4_Procesos.exe.config
+C:\Users\Allan\Desktop\UMG-CUARENTENA\Sistemas Operativos l\Tarea4_Procesos\bin\Debug\Tarea4_Procesos.exe
+C:\Users\Allan\Desktop\UMG-CUARENTENA\Sistemas Operativos l\Tarea4_Procesos\bin\Debug\Tarea4_Procesos.pdb
+C:\Users\Allan\Desktop\UMG-CUARENTENA\Sistemas Operativos l\Tarea4_Procesos\obj\Debug\Tarea4_Procesos.csprojAssemblyReference.cache
+C:\Users\Allan\Desktop\UMG-CUARENTENA\Sistemas Operativos l\Tarea4_Procesos\obj\Debug\Tarea4_Procesos.Form1.resources
+C:\Users\Allan\Desktop\UMG-CUARENTENA\Sistemas Operativos l\Tarea4_Procesos\obj\Debug\Tarea4_Procesos.Properties.Resources.resources
+C:\Users\Allan\Desktop\UMG-CUARENTENA\Sistemas Operativos l\Tarea4_Procesos\obj\Debug\Tarea4_Procesos.csproj.GenerateResource.cache
+C:\Users\Allan\Desktop\UMG-CUARENTENA\Sistemas Operativos l\Tarea4_Procesos\obj\Debug\Tarea4_Procesos.exe
+C:\Users\Allan\Desktop\UMG-CUARENTENA\Sistemas Operativos l\Tarea4_Procesos\obj\Debug\Tarea4_Procesos.pdb
